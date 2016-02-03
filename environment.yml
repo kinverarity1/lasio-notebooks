@@ -1,0 +1,13 @@
+name: env-lasio
+
+dependencies:
+- python=2.7
+- chardet
+- numpy
+- openpyxl
+- pandas
+- matplotlib
+- pip:
+  - lasio
+  - namedlist
+  - ordereddict
